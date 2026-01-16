@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Muhammad Imran 👋
 
-<!--
-**ImranKasuri55/ImranKasuri55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ASP.NET Core Backend Developer
 
-Here are some ideas to get you started:
+I build secure and scalable backend systems using **ASP.NET Core**, **C#**, and **SQL Server**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Tech Stack
+- ASP.NET Core Web API
+- C#
+- REST APIs
+- Entity Framework Core
+- SQL Server
+- JWT Authentication
+- Git & GitHub
+
+### 🔹 Featured Project
+🚀 **Student Management API**
+- JWT authentication & authorization
+- Clean API architecture
+- SQL Server with EF Core
+- CRUD operations
+
+### 🔹 What I Can Help With
+- Backend API development
+- Authentication systems
+- Database-driven applications
+- Long-term backend support
+
+📫 Open to **remote & freelance opportunities**
+
